@@ -11,7 +11,7 @@ Passionate about continuous learning, I thrive on delivering data solutions that
 
 
 - 📫 How to reach me **mrudula.tanniru7@gmail.com** <div align="centre">
-  <img height="300" src="https://miro.medium.com/1*DsIpnvUFCtKFEXCWLx3g5Q.gif"  />
+  <img align="right" height="300" src="https://miro.medium.com/1*DsIpnvUFCtKFEXCWLx3g5Q.gif"  />
 </div> <h3 align="left">Connect with me:</h3>  
 <p align="left">
 <a href="https://www.linkedin.com/in/tanniru-mrudula/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/tanniru-mrudula/" height="30" width="40" /></a>
