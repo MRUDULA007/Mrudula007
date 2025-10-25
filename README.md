@@ -1,12 +1,10 @@
 <h1 align="center">Hi👋, I'm Mrudula Tanniru</h1>
 <h4>
-I am a Business Intelligence Engineer with 5 years of experience designing, developing, and optimizing BI solutions that empower business users with actionable insights. I specialize in creating scalable dashboards and reports using Power BI, Tableau, and SQL, while leveraging cloud platforms like Azure Synapse Analytics and Databricks for robust data modeling and analysis.  
+I’m a Business Intelligence Engineer and Data Scientist with about 6 years of experience designing, developing, and optimizing BI and analytics solutions that empower business teams with actionable insights. I specialize in building scalable dashboards and reports using Power BI, Tableau, and SQL, while leveraging cloud platforms like Azure Synapse, Databricks, and Snowflake for advanced data modeling, analysis, and performance tuning.
 <br><br>
-My expertise spans data warehousing concepts, dimensional modeling, ETL processes, and performance tuning, with a strong background in bridging business requirements with technical execution.  
+Alongside BI, I bring a strong foundation in data science — including predictive modeling, statistical analysis, and machine learning — which helps me move beyond reporting to deliver insights that directly influence strategic decisions. I also have experience in automation and manual testing using Java and Selenium, which has strengthened my attention to detail and quality assurance mindset.
 <br><br>
-In addition to my BI experience, I also bring 1 year of hands-on experience in automation and manual testing using Java and Selenium, which has strengthened my attention to detail, quality assurance mindset, and ability to deliver reliable solutions.  
-<br><br>
-Passionate about continuous learning, I thrive on delivering data solutions that enhance decision-making, improve efficiency, and create measurable business impact.
+I’m passionate about translating complex data into simple, high-impact insights that improve decision-making, streamline operations, and drive measurable business outcomes.
 </h4>
 
 
