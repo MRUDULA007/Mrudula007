@@ -1,11 +1,44 @@
-<h1 align="center">Hi👋, I'm Mrudula Tanniru</h1>
-<h4>
-I’m a Business Intelligence Engineer and Data Scientist with about 6 years of experience designing, developing, and optimizing BI and analytics solutions that empower business teams with actionable insights. I specialize in building scalable dashboards and reports using Power BI, Tableau, and SQL, while leveraging cloud platforms like Azure Synapse, Databricks, and Snowflake for advanced data modeling, analysis, and performance tuning.
-<br><br>
-Alongside BI, I bring a strong foundation in data science — including predictive modeling, statistical analysis, and machine learning — which helps me move beyond reporting to deliver insights that directly influence strategic decisions. I also have experience in automation and manual testing using Java and Selenium, which has strengthened my attention to detail and quality assurance mindset.
-<br><br>
-I’m passionate about translating complex data into simple, high-impact insights that improve decision-making, streamline operations, and drive measurable business outcomes.
-</h4>
+# 🚀 Palantir Foundry Architect | Senior Analytics Engineer
+
+### Hi👋, I'm Mrudula
+
+I specialize in building **"Living Systems"** within **Palantir Foundry**, bridging the gap between complex data engineering and operational decision-making. 
+
+With 6+ years of experience across **Retail**, **Pharma**, and **Finance**, I architect end-to-end data products—from scalable PySpark transforms in Code Repositories to governed Digital Twins (Ontology) and high-impact Workshop applications.
+
+---
+
+### 🛠 What I Do
+* **Ontology Architecture:** Designing enterprise-grade digital twins with complex Link Types and Action Frameworks to move teams from passive reporting to active decision execution.
+* **Analytics Engineering:** Building robust, incremental pipelines using **Pipeline Builder** and **Code Repositories** with a focus on data health, lineage, and GxP compliance.
+* **AIP & AI Solutions:** Leveraging **AIP Logic** and **Agent Studio** to fold generative AI into governed operational workflows.
+* **Operational Apps:** Developing decision-ready **Workshop** applications that empower cross-functional teams to execute real-time actions.
+
+---
+
+### 💼 Industry Impact
+* **Fraud Intelligence:** Scaling ontology-driven investigation workflows for high-value retail fulfillment.
+* **Life Sciences:** Architecting GxP-compliant pharma ontologies unifying clinical and supply chain domains.
+* **Capital Markets:** Modeling financial entities for $5B+ daily transaction volumes with strict regulatory traceability.
+
+---
+
+### 🔧 Tech Stack & Tools
+
+**Palantir Foundry & AIP Eco**
+> Ontology Management (OMP), Workshop, Code Repositories (PySpark/Python), Pipeline Builder, Quiver, AIP Logic, Agent Studio, Slate, Multipass, Data Health.
+
+**Data & Cloud Infrastructure**
+> Azure (Databricks, Synapse, Blob Storage), AWS (S3, EC2), Snowflake, SQL, NoSQL, JDBC, incremental transform logic.
+
+**Data Science & Programming**
+> Python (Pandas, NumPy, Scikit-learn, PyTorch), PySpark, Java, Selenium, Statistical Modeling, Predictive Analytics.
+
+**Visualization**
+> Power BI (DAX), Tableau, Excel (VBA/Macros).
+
+---
+
 
 
 - 📫 How to reach me **mrudula.tanniru7@gmail.com** <div align="centre">
@@ -19,7 +52,7 @@ I’m passionate about translating complex data into simple, high-impact insight
 
 <h3 align="left">Certifications 📜</h3>
 <p align="left">
-<strong>Coursera:</strong> : Business Intelligence (BI) Essentials, AWS Fundamentals, AWS S3 Basics, Exploratory Data Analysis With Python and Pandas, Visualizing Filters of a CNN using TensorFlow<br>
+<strong>Coursera:</strong> Foundry & AIP Builder Foundations, Business Intelligence (BI) Essentials, AWS Fundamentals, AWS S3 Basics, Exploratory Data Analysis With Python and Pandas, Visualizing Filters of a CNN using TensorFlow<br>
 
 </p>
 
