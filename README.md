@@ -4,7 +4,10 @@
 
 I specialize in building **"Living Systems"** within **Palantir Foundry**, bridging the gap between complex data engineering and operational decision-making. 
 
-With 6+ years of experience across **Retail**, **Pharma**, and **Finance**, I architect end-to-end data products—from scalable PySpark transforms in Code Repositories to governed Digital Twins (Ontology) and high-impact Workshop applications.
+With 7+ years of experience across **Retail**, **Pharma**, and **Finance**, I architect end-to-end data products—from scalable PySpark transforms in Code Repositories to governed Digital Twins (Ontology) and high-impact Workshop applications.
+## 🌐 Portfolio
+Check out my interactive portfolio:  
+👉 [View My Portfolio](https://mrudula-tanniru-zna28xp.gamma.site/)
 
 ---
 
